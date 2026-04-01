@@ -100,3 +100,11 @@ const model = genAI.getGenerativeModel({
 
 - **Krishna Sonji**
 - **Shweta Bankar**
+
+## 👥 Team
+
+| Member | GitHub |
+|---|---|
+| Krish | [@Thir13een](https://github.com/Thir13een) |
+| Shweta | [@shwetabankar54](https://github.com/shwetabankar54) |
+
