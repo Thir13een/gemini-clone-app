@@ -1,8 +1,9 @@
-[![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
-
 # Gemini Clone App
 
 > **This is how we think Gemini should look.** A fresh take on Google's AI interface — replacing the traditional flat design with immersive glassmorphism and a living, breathing WebGL orb that responds to your interactions.
+
+
+**🤝 Built by**   [![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
 
 ## Features
 
